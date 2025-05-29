@@ -1,16 +1,10 @@
-# myapp
+# MINISO 
 
-A new Flutter project.
+-![image](https://github.com/user-attachments/assets/a2c33035-52ab-4282-9d12-3f08efc1ad2d)
+- ![image](https://github.com/user-attachments/assets/5ab42d75-dd6d-4cdf-b31d-8dcab0a1e0d3)
+- ![image](https://github.com/user-attachments/assets/b69b922e-749d-4933-b910-6ebac08fcda4)
+- ![image](https://github.com/user-attachments/assets/5958a20a-ad7c-4f46-96d6-eaa0c3d76380)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
